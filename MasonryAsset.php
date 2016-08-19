@@ -18,7 +18,7 @@ class MasonryAsset extends AssetBundle
     public $sourcePath = '@bower/masonry';
     
     public $js = [
-        'js/masonry.min.js',
+        'jquery.masonry.min',
     ];
 	
     public $depends = [
