@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist nerburish/yii2-masonry-asset "dev-master"
+php composer.phar require --prefer-dist nerburish/yii2-masonry-asset "*"
 ```
 
 or add
 
 ```
-"nerburish/yii2-masonry-asset": "dev-master"
+"nerburish/yii2-masonry-asset": "*"
 ```
 
 to the require section of your `composer.json` file.
