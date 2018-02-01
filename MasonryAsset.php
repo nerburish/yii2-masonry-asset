@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
  */
 class MasonryAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/masonry';
+    public $sourcePath = '@bower/jquery-masonry';
     
     public $js = [
         'jquery.masonry.min.js',
